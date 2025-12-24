@@ -3,8 +3,6 @@
   "author": "そら",
   "version": "1.0.0",
   "textures": {
-    "lane": "textures/lane.png",
     "note": "textures/tap.png",
-    "judgeLine": "textures/judge_line.png"
   }
 }
